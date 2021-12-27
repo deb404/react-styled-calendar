@@ -2,7 +2,7 @@
   "name": "react-styled-calendar",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://intcouture.github.io/",
+  "homepage": "https://intcouture.github.io/react-styled-calendar",
   "dependencies": {
     "@okta/okta-react": "3.0.1",
     "@testing-library/jest-dom": "^5.16.1",
